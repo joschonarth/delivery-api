@@ -1,0 +1,20 @@
+{
+  "name": "delivery-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx watch src/server.ts"
+  },
+  "author": "João Otávio Schonarth",
+  "license": "ISC",
+  "description": "An API for managing delivery orders, tracking, and customer details.",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^20.14.12",
+    "tsx": "^4.16.2",
+    "typescript": "^5.5.4"
+  }
+}
