@@ -10,6 +10,8 @@ function verifyUserAuthorization(role: string[]) {
         if (!role.includes(request.user.role)) {
             throw new AppError("Unauthorized", 401)
         }
+
+        return next()
     }
 }
 
