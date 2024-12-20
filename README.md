@@ -95,7 +95,17 @@ npm run dev
 
 ---
 
-## 🌐 Endpoints
+## 🌐 Deploy
+
+A **Delivery API** está disponível online e pode ser testada diretamente na produção. Caso queira testar a aplicação, você pode interagir com os endpoints utilizando a URL abaixo.
+
+👉 Você pode testar a **Delivery API** ao acessar a URL de produção: [https://delivery-api-s8bp.onrender.com](https://delivery-api-s8bp.onrender.com)
+
+Para testar, utilize ferramentas como **Postman** ou **Insomnia** para fazer requisições para os endpoints descritos na seção de **Endpoints**.
+
+---
+
+## 🔗 Endpoints
 
 ### 👤 Usuários (`/users`)
 - ➕ **POST `/users`**: Criar um novo usuário.
