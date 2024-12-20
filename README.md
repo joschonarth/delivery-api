@@ -156,7 +156,7 @@ npm run dev
 
 ---
 
-# ✅ Testes
+## ✅ Testes
 
 Este projeto utiliza o **Jest** para garantir a confiabilidade e o funcionamento correto dos recursos implementados. Para executar os testes, utilize o seguinte comando:  
 
